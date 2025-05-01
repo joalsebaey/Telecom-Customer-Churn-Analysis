@@ -90,7 +90,7 @@ SWITCH(
 )
 ```
 
-##🧪 How to Use
+## 🧪 How to Use
 Download or clone this repository.
 
 Open Telecom_Churn_Analysis.pbix in Power BI Desktop.
@@ -99,7 +99,7 @@ Load the telecom_customer_churn.csv dataset.
 
 Use filters and slicers to explore churn behavior by demographic and service attributes.
 
-##💡 Insights You Can Extract
+## 💡 Insights You Can Extract
 Which customer segments have the highest churn?
 
 How do services like internet, security, or streaming impact churn?
@@ -108,7 +108,7 @@ Are short-term contract users more likely to churn?
 
 What is the optimal tenure or billing strategy to retain customers?
 
-##📝 License
+## 📝 License
 MIT License
 
 
