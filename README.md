@@ -5,7 +5,7 @@ This project provides a comprehensive analysis of customer churn in a telecom co
 ---
 
 ## 📁 Repository Structure
-telecom-churn-dashboard/ │ ├── dataset/ │ └── telecom_customer_churn.csv # The dataset used in Power BI │ ├── visuals/ │ └── screenshots/ # Screenshots of dashboard visuals │ ├── dax-measures/ │ └── churn_dax_measures.txt # All DAX measures used in the report │ ├── pbix/ │ └── Telecom_Churn_Analysis.pbix # Power BI dashboard file (optional) │ └── README.md \
+telecom-churn-dashboard/ │ ├── dataset/ │ └── telecom_customer_churn.csv # The dataset used in Power BI │ ├── visuals/ │ └── screenshots/ # Screenshots of dashboard visuals │ ├── dax-measures/ │ └── churn_dax_measures.txt # All DAX measures used in the report │ ├── pbix/ │ └── Telecom_Churn_Analysis.pbix # Power BI dashboard file  │ └── README.md \
 
 
 ---
