@@ -22,6 +22,51 @@ The Power BI dashboard includes:
 - **Charges vs Churn**: Distribution of Monthly Charges and Total Charges
 
 ---
+# Customer Churn Analysis Dashboard  
+
+This repository contains interactive dashboards analyzing customer behavior, service usage, and churn drivers to improve retention and revenue.  
+
+## 📊 **Key Insights**  
+
+### **1. Churn Analysis**  
+- **27% churn rate**, driven by:  
+  - Competitor offers (better pricing/higher speeds).  
+  - Poor service/support experiences.  
+  - Month-to-month contract customers.  
+- **Highest churn** among low-tenure users (0-20 months).  
+
+### **2. Service Optimization**  
+- **Fiber Optic users** generate the highest revenue.  
+- Only **49.3%** adopt device protection plans.  
+
+### **3. Customer Demographics**  
+- Near-even gender split (49.5% Female, 50.5% Male).  
+- Married customers (51.7%) use more services.  
+
+---
+
+## 🎯 **Recommendations**  
+
+### **Retention Strategies**  
+- Offer **loyalty discounts** for annual contracts.  
+- Launch **win-back campaigns** for 0-20 month tenure users.  
+
+### **Upsell Opportunities**  
+- Promote **Fiber Optic upgrades** to DSL/Cable users.  
+- Bundle **device protection + unlimited data** at a discount.  
+
+### **Process Improvements**  
+- **Auto-pay incentives** (e.g., "$5/month discount").  
+- **Streamline refunds** to reduce disputes.  
+
+---
+
+## 📂 **Dashboard Features**  
+- **Interactive filters** (contract type, region).  
+- **Churn reason breakdowns**.  
+- **Revenue by payment method**.  
+
+---
 
 ## 📈 Key DAX Measures
 
